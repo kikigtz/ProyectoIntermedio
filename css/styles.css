@@ -1,0 +1,76 @@
+.logo{
+	width: 30%;
+	padding: 0;
+	margin: 0;
+}
+footer, header nav a{
+	font-family: 'Oxygen', sans-serif;
+	color: #40e0d0;
+}
+nav .navbar-toggler{
+	color: #40e0d0;
+}
+body{
+	background-color: #c7f0db;
+	margin: 0;
+	padding: 0;
+}
+header nav{
+	position: fixed;
+}
+/*Index*/
+.jumbotron{
+	margin-bottom:  0;
+	font-family:  'Oxygen', sans-serif;
+}
+.jumbotron h2{
+	padding-top: 2%; 
+}
+.jumbotron p{
+	padding-bottom: 1%; 
+}
+/*Recamaras*/
+.card{
+	margin: 0;
+	padding: 0;
+}
+.carddeck{
+	margin: 0;
+	padding: 0;
+}
+.card:hover{
+	background-color: #bbe1fa;
+}
+/*Contacto*/
+.contacto img{
+	width: 100%;
+}
+.contacto h1{
+	font-family: 'Acme', sans-serif;
+	text-align: center;
+}
+.contacto h3{
+	font-family: 'Acme', sans-serif;
+	text-align: justify;
+}
+.accordion{
+	font-family: 'Acme', sans-serif;
+}
+.jumbotron{
+	padding: 1%;
+	font-size: smaller;
+	font-family: 'Acme', sans-serif;
+}
+.form-group{
+	margin-left: 6%;
+	font-family: 'Acme', sans-serif;
+}
+.contacto{
+	margin: 0;
+}
+.accordion .card{
+	background-color: black;
+	color: #40e0d0;
+	border-style: solid;
+	border-color: #40e0d0;	
+}
